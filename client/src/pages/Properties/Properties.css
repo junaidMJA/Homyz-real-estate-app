@@ -1,0 +1,8 @@
+.p-container {
+    gap: 2rem;
+}
+
+.p-container .search-bar {
+    width: clamp(12rem, 100%, 28rem);
+    flex-wrap: nowrap;
+}
